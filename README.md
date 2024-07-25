@@ -1,1 +1,1 @@
-# University-anagement
+# University-management
